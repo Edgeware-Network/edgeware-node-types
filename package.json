@@ -1,6 +1,6 @@
 {
   "name": "@edgeware/node-types",
-  "version": "3.6.1-wako",
+  "version": "3.6.2-wako",
   "description": "Type definitions for edgeware chain.",
   "main": "dist/src/index.js",
   "files": [
@@ -8,7 +8,7 @@
     "README.md"
   ],
   "engines": {
-    "node": "^14.0.0"
+    "node": ">=14.0.0"
   },
   "dependencies": {},
   "devDependencies": {
